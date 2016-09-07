@@ -78,6 +78,6 @@ function loads(){
   var bade=document.getElementById('bad');
   bade.innerHTML="<p>忌:"+activities[n3]+"</p>";
   
-  var pp=document.getElementById('zhanbu');
+  var pp=document.getElementById('pic');
   pp.onclick=function(){window.location.href="player.html";}
 }
