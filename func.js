@@ -1,4 +1,4 @@
-window.onload=loads;
+//window.onload=loads;
 var today=new Date();
 var iday = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
 //随机数
